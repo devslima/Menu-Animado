@@ -1,6 +1,6 @@
 # Menu Animado
 
-<img src="./assets/imagem menu animado" alt="interface final">
+<img src="./assets/imagem menu animado.png" alt="interface final">
 
 > Imagem estática do Menu Animado.
 
